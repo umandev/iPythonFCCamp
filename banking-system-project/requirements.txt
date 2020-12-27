@@ -1,3 +1,5 @@
 nose
 sphinx
 pytest
+cryptography
+mysql-connector-python
